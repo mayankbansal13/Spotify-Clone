@@ -24,4 +24,4 @@ A simple Spotify web clone built using HTML, CSS, and JavaScript. This project a
 This project is for educational purposes only and does not use Spotify's official API.  
 
 ---
-Made with ❤️ by [Your Name]
+Made with ❤️ by Mayank
